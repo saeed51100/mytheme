@@ -9,7 +9,7 @@ html {
 
 main {
   display: flex;
-  /*flex-wrap: nowrap;*/
+  /*flex-wrap: nowrap;*/           /* commented by saeed*/
   flex-wrap: inherit;
   height: 100vh;
   height: -webkit-fill-available;
